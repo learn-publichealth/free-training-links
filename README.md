@@ -67,7 +67,7 @@ Some python resources :
 # PGCOE education links Pathogen Genomics for Public Health 
 1. https://learn.hms.harvard.edu/pathogen-genomics-public-health
 
-# Genomic Epidemelogy 
+# Genomic Epidemiology 
 1. Training Opportunities - https://www.genomicepi.com/training/
 
 # All programming languages 
