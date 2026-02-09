@@ -60,7 +60,26 @@ Some python resources :
 16. Python for Everybody - https://www.py4e.com/lessons
 17. Python Full Course for free - https://www.youtube.com/watch?v=ix9cRaBkVe0
 18. Python for Biologist - https://www.pythonforbiologists.org/
-   
+19. Exercises in Python for Biologists - https://pythonforbiologists.com/site_stuff/exercise-files.html
+
+# iPython Notebooks 
+1. A-gallery-of-interesting-IPython-Notebooks - https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md
+2. Bio-image Analysis Notebooks - https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html
+
+
+# Bioinformatics 
+1. An Introduction to Applied Bioinformatics - https://readiab.org/introduction.html
+2. Developing with QIIME 2 - https://develop.qiime2.org/en/stable/intro.html
+3. Using QIIME 2 - https://use.qiime2.org/en/stable/  && https://github.com/qiime2
+4. NGS Sequence Analysis - https://vimeo.com/866443770
+5. All About Trees: Sequence Comparison and Phylogeny - https://vimeo.com/866485888
+
+# The Midwest Genomic Epidemiology Training Series (MGETS)
+1. MGETS: Session 1 – Molecular Microbiology - https://www.youtube.com/watch?v=cG14aQGUg6E
+2. MGETS: Session 2 – Sequencing - https://www.youtube.com/watch?v=JQOecuNMJbc
+3. MGETS Session 3 Bioinformatics - https://www.youtube.com/watch?v=SNQPhOZVQcM
+4. MGETS Session 4 – Infectious Disease Epidemiology - https://www.youtube.com/watch?v=PA0fjHFKHas
+      
 # SQLite links 
 1. A link for SQLite tutorial - https://www.sqlitetutorial.net/
 
