@@ -59,6 +59,7 @@ Some python resources :
 15. Python resources - https://github.com/openlists/PythonResources
 16. Python for Everybody - https://www.py4e.com/lessons
 17. Python Full Course for free - https://www.youtube.com/watch?v=ix9cRaBkVe0
+18. Python for Biologist - https://www.pythonforbiologists.org/
    
 # SQLite links 
 1. A link for SQLite tutorial - https://www.sqlitetutorial.net/
