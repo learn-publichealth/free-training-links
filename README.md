@@ -1,6 +1,8 @@
 # free-training-links
 Training links that are available to the public and require no licensing.
-R Links:
+
+# R Links:
+
 R can be used for free without installimng the software at https://posit.cloud/
 Take a look at these free resources:
 1.	R for Data Science, 2nd edition https://r4ds.hadley.nz
@@ -35,4 +37,26 @@ Take a look at these free resources:
 30.	Why use R markdown? | An Introduction to R https://intro2r.com/why-use-r-markdown.html
 31.	Common errors – The Epidemiologist R Handbook https://www.epirhandbook.com/en/new_pages/errors.html
 
+# Python links:
+Some python resources :
+1. Learn Python: https://www.w3schools.com/python/default.asp
+2. https://www.youtube.com/watch?v=xkZMUX_oQX4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9
+3. https://www.learnpython.org/
+4. Free examples: https://rosalind.info/problems/locations/
+5. https://www.geeksforgeeks.org/python/python-projects-beginner-to-advanced/
+6. https://realpython.com/podcasts/rpp/197/
+   
+# SQLite links 
+1. A link for SQLite tutorial - https://www.sqlitetutorial.net/
 
+# PGCOE education links Pathogen Genomics for Public Health 
+1. https://learn.hms.harvard.edu/pathogen-genomics-public-health
+
+# Genomic Epidemelogy 
+1. Training Opportunities - GenomicEpi.com
+
+
+# Disclaimer
+
+The resources and links provided on this page are for informational purposes only. I do not own, maintain, or have any control over the content of external websites. All trademarks, logos, and content belong to their respective owners.
+I make no guarantees regarding the accuracy, completeness, or availability of these resources and assume no responsibility for any issues, losses, or damages that may arise from their use. Users are encouraged to verify information and comply with the terms and conditions of the respective sites
