@@ -70,6 +70,9 @@ Some python resources :
 # Genomic Epidemiology 
 1. Training Opportunities - https://www.genomicepi.com/training/
 
+# An applied genomic epidemiological handbook
+1. Handbook - https://alliblk.github.io/genepi-book/
+
 # All programming languages 
 1. Codecademy - https://www.codecademy.com/catalog
 
