@@ -81,4 +81,3 @@ Some python resources :
 
 The resources and links provided on this page are for informational purposes only. I do not own, maintain, or have any control over the content of external websites. All trademarks, logos, and content belong to their respective owners.
 I make no guarantees regarding the accuracy, completeness, or availability of these resources and assume no responsibility for any issues, losses, or damages that may arise from their use. Users are encouraged to verify information and comply with the terms and conditions of the respective sites
-If you have free resources or trainings you want to add here please email me @
