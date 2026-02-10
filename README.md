@@ -2,7 +2,6 @@
 Training links that are available to the public and require no licensing.
 
 # R Links:
-
 R can be used for free without installimng the software at https://posit.cloud/
 Take a look at these free resources:
 1.	R for Data Science, 2nd edition https://r4ds.hadley.nz
@@ -91,8 +90,7 @@ Some python resources :
 # An applied genomic epidemiological handbook
 1. Handbook - https://alliblk.github.io/genepi-book/
 
-# Free AI courses from Amazon
-
+# Free AI courses from Amazon and others
 1. Generative AI Learning Plan - https://lnkd.in/gQsJM_rF
 2. Generative AI Learning Plan for Decision Makers - https://lnkd.in/gJHJarui
 3. Foundation of Prompt Engineering (stand-alone) - https://lnkd.in/gdCf29K7
@@ -100,9 +98,9 @@ Some python resources :
 5. Building Language Models on AWS - https://lnkd.in/gJVEU5Qy
 6. Amazon Transcribe Getting Started - https://lnkd.in/gYx7arPQ
 7. Machine Learning Learning Plan - https://lnkd.in/gWTz3p2W
+8. Cyberman is the best place for the latest AI updates, insights, and tools. -  https://lnkd.in/gxi4T-FX
 
 # Data Science and Programming Coursees from Harvard:
-
 1. Introduction to Data Science with Python - https://edx.sjv.io/EEAoRn
 2. Introduction to Cybersecurity - https://edx.sjv.io/6yzrV3
 3. Understanding Technology - https://edx.sjv.io/yqodWy
@@ -114,11 +112,23 @@ Some python resources :
 9. Leaders of Learning - Explore theories of learning and leadership. - https://edx.sjv.io/WyEmgn
 10. Introduction to Computer Science - https://edx.sjv.io/nXV0ga
 
-
+# HPC Computing 
+1. Introduction to High-Performance Computing - https://carpentries-incubator.github.io/hpc-intro/
 
 # All programming languages 
 1. Codecademy - https://www.codecademy.com/catalog
 
+# MIT University online courses.
+1. Computer Science and Programming Using Python - https://lnkd.in/gDR7hzP9
+2. How to Launch a Tech Company in 6 Steps - https://lnkd.in/g4bmhdrZ
+3. Machine Learning with Python - https://lnkd.in/gu67BhJr
+4. Becoming an Entrepreneur - https://lnkd.in/gzkrQWJY
+5. Understanding the World Through Data - https://lnkd.in/gW9uveaa
+6. Foundations of Modern Finance - https://lnkd.in/g8J7BNeJ
+7. Data Analysis: Statistical Modeling - https://lnkd.in/gXa_dJ3r
+8. Entrepreneurship 101 - https://lnkd.in/gKTNg-YV
+9. Entrepreneurship 102 - https://lnkd.in/guavsMmR
+10. Entrepreneurship 103: Show Me The Money - https://lnkd.in/gRMt_aNx
 
 # Disclaimer
 
