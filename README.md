@@ -45,6 +45,7 @@ Take a look at these free resources:
 
 # Python links:
 Python can used freely from google collab https://colab.research.google.com/
+
 Some python resources :
 1. Learn Python: https://www.w3schools.com/python/default.asp
 2. Python - Introduction - W3Schools.com- https://www.youtube.com/watch?v=xkZMUX_oQX4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9
