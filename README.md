@@ -128,9 +128,7 @@ Some python resources :
 5. Understanding the World Through Data - https://lnkd.in/gW9uveaa
 6. Foundations of Modern Finance - https://lnkd.in/g8J7BNeJ
 7. Data Analysis: Statistical Modeling - https://lnkd.in/gXa_dJ3r
-8. Entrepreneurship 101 - https://lnkd.in/gKTNg-YV
-9. Entrepreneurship 102 - https://lnkd.in/guavsMmR
-10. Entrepreneurship 103: Show Me The Money - https://lnkd.in/gRMt_aNx
+
 
 # Disclaimer
 
