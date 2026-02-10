@@ -130,24 +130,25 @@ Some python resources :
 7. Data Analysis: Statistical Modeling - https://lnkd.in/gXa_dJ3r
 
 # Free biothreat and biosurveillance training resources:
-1. CDC Biothreat Training - https://www.cdc.gov/lab-training/php/courses/biothreat-preparedness-sentinel-laboratories.html
+## CDC Lab Preparedness Portal
+1. Prepared Laboratories Resources – includes links to the above CDC biothreat courses (sentinel labs, rule‑out series) and biosafety modules.
+https://www.cdc.gov/laboratory-systems/php/initiatives/prepared-laboratories-resources.html
+2. CDC Biothreat Training - https://www.cdc.gov/lab-training/php/courses/biothreat-preparedness-sentinel-laboratories.html
 Biothreat Preparedness Training for Sentinel Laboratories Series
-Covers identification of Bacillus anthracis, Brucella spp., Burkholderia spp., Yersinia pestis, and Francisella tularensis.
-2. Biothreat Rule Out or Refer Series - https://www.cdc.gov/lab-training/php/courses/biothreat-rule-out-refer-series.html
+Covers identification of Bacillus anthracis, Brucella, Burkholderia, Yersinia pestis, and Francisella tularensis.
+3. Biothreat Rule Out or Refer Series - https://www.cdc.gov/lab-training/php/courses/biothreat-rule-out-refer-series.html
 Virtual case-based exercises to practice applying sentinel lab protocols for ruling out or referring biothreat agents.
 ## APHL Training Toolbox
 Biothreat Response: Sentinel Laboratory Training Toolbox - https://www.aphl.org/training/Pages/Biothreat-Response-Sentinel-Laboratory-Training-Toolbox.aspx
 Downloadable templates and materials for hands-on biothreat training and outreach.
-# USAMRIID Resources
+## USAMRIID Resources
 USAMRIID Biodefense Tool (mobile app) for quick reference on biothreat agents. - https://usamriid.health.mil/index.cfm/training/resources
 Medical Management of Biological Casualties Handbook ("Blue Book", 9th ed.) (PDF)
 Quick Bio‑Agents Guide (2nd ed.) (PDF)
-# DHS & FEMA
+## DHS & FEMA
 BioWatch Overview (distance learning course) – a 30-minute introduction to the BioWatch air-monitoring program for detection of airborne biothreats.
 https://cdp.dhs.gov/training/course/AWR-938-W
-# CDC Lab Preparedness Portal
-Prepared Laboratories Resources – includes links to the above CDC biothreat courses (sentinel labs, rule‑out series) and biosafety modules.
-https://www.cdc.gov/laboratory-systems/php/initiatives/prepared-laboratories-resources.html
+
 
 # Disclaimer
 
