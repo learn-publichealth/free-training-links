@@ -7,6 +7,7 @@ Training links that are available to the public and require no licensing.
 
 # R Links:
 R can be used for free without installimng the software at https://posit.cloud/
+
 Take a look at these free resources:
 1.	R for Data Science, 2nd edition https://r4ds.hadley.nz
 2.	R Programming for Data Science https://bookdown.org/rdpeng/rprogdatascience/
