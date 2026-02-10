@@ -89,10 +89,10 @@ Some python resources :
 
 
 # Genomic Epidemiology 
-1. Training Opportunities - https://www.genomicepi.com/training/
+Training Opportunities - https://www.genomicepi.com/training/
 
 # An applied genomic epidemiological handbook
-1. Handbook - https://alliblk.github.io/genepi-book/
+Handbook - https://alliblk.github.io/genepi-book/
 
 # Free AI courses from Amazon and others
 1. Generative AI Learning Plan - https://lnkd.in/gQsJM_rF
@@ -117,10 +117,10 @@ Some python resources :
 10. Introduction to Computer Science - https://edx.sjv.io/nXV0ga
 
 # HPC Computing 
-1. Introduction to High-Performance Computing - https://carpentries-incubator.github.io/hpc-intro/
+Introduction to High-Performance Computing - https://carpentries-incubator.github.io/hpc-intro/
 
 # All programming languages 
-1. Codecademy - https://www.codecademy.com/catalog
+Codecademy - https://www.codecademy.com/catalog
 
 # MIT University online courses.
 1. Computer Science and Programming Using Python - https://lnkd.in/gDR7hzP9
@@ -150,7 +150,6 @@ https://cdp.dhs.gov/training/course/AWR-938-W
 
 
 # Disclaimer
-
 The resources and links provided on this page are for informational purposes only. I do not own, maintain, or have any control over the content of external websites. All trademarks, logos, and content belong to their respective owners.
 I make no guarantees regarding the accuracy, completeness, or availability of these resources and assume no responsibility for any issues, losses, or damages that may arise from their use. Users are encouraged to verify information and comply with the terms and conditions of the respective sites.
 If you want to reach me or add any free content leave a note in the discussions. 
