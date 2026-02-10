@@ -94,52 +94,12 @@ Some python resources :
 # Free AI courses from Amazon
 
 1. Generative AI Learning Plan - https://lnkd.in/gQsJM_rF
-2. Generative AI Learning Plan for Decision Makers
-
-
-https://lnkd.in/gJHJarui
-
-
-
-3. Foundation of Prompt Engineering (stand-alone)
-
-
-
-https://lnkd.in/gdCf29K7
-
----
-
-4. Low-Code Machine Learning on AWS
-
-
-
-https://lnkd.in/guwh8KQV
-
----
-
-5. Building Language Models on AWS
-
-
-
-https://lnkd.in/gJVEU5Qy
-
----
-
-6. Amazon Transcribe Getting Started
-
-
-
-https://lnkd.in/gYx7arPQ
-
----
-
-7. Machine Learning Learning Plan
-
-If you’re a beginner looking for a clear starting point to help you build a career in machine learning, start with an AWS Learning Plan.
-
-Duration: 12h 13m | Total 10 courses inside.
-
-https://lnkd.in/gWTz3p2W
+2. Generative AI Learning Plan for Decision Makers - https://lnkd.in/gJHJarui
+3. Foundation of Prompt Engineering (stand-alone) - https://lnkd.in/gdCf29K7
+4. Low-Code Machine Learning on AWS - https://lnkd.in/guwh8KQV
+5. Building Language Models on AWS - https://lnkd.in/gJVEU5Qy
+6. Amazon Transcribe Getting Started - https://lnkd.in/gYx7arPQ
+7. Machine Learning Learning Plan - https://lnkd.in/gWTz3p2W
 
 
 # All programming languages 
