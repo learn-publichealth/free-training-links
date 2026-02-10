@@ -1,6 +1,10 @@
 # free-training-links
 Training links that are available to the public and require no licensing.
 
+# PGCOE - Pathogen Genomics for Public Health - Tools and Education
+1. https://learn.hms.harvard.edu/pathogen-genomics-public-health
+2. https://pgcoe.github.io/
+
 # R Links:
 R can be used for free without installimng the software at https://posit.cloud/
 Take a look at these free resources:
@@ -81,8 +85,6 @@ Some python resources :
 # SQLite links 
 1. A link for SQLite tutorial - https://www.sqlitetutorial.net/
 
-# PGCOE education links Pathogen Genomics for Public Health 
-1. https://learn.hms.harvard.edu/pathogen-genomics-public-health
 
 # Genomic Epidemiology 
 1. Training Opportunities - https://www.genomicepi.com/training/
