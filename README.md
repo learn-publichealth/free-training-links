@@ -87,7 +87,7 @@ Some python resources :
 # SQLite links 
 1. A link for SQLite tutorial - https://www.sqlitetutorial.net/
 2. https://rivery.io/blog/6-best-free-resources-for-learning-sql/
-
+3. https://www.stratascratch.com/blog/categories/sql
 
 # Genomic Epidemiology 
 Training Opportunities - https://www.genomicepi.com/training/
