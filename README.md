@@ -101,6 +101,20 @@ Some python resources :
 6. Amazon Transcribe Getting Started - https://lnkd.in/gYx7arPQ
 7. Machine Learning Learning Plan - https://lnkd.in/gWTz3p2W
 
+# Data Science and Programming Coursees from Harvard:
+
+1. Introduction to Data Science with Python - https://edx.sjv.io/EEAoRn
+2. Introduction to Cybersecurity - https://edx.sjv.io/6yzrV3
+3. Understanding Technology - https://edx.sjv.io/yqodWy
+4. Data Science: Productivity Tools - https://edx.sjv.io/K0Engz
+5. Introduction to Game Development - https://edx.sjv.io/QjEm0z
+6. Introduction to AI with Python - https://edx.sjv.io/g1Bg15
+7. Data Science: Machine Learning - https://edx.sjv.io/NkW4NN
+8. Web Programming with Python and JavaScript - https://edx.sjv.io/Z6E9qW
+9. Leaders of Learning - Explore theories of learning and leadership. - https://edx.sjv.io/WyEmgn
+10. Introduction to Computer Science - https://edx.sjv.io/nXV0ga
+
+
 
 # All programming languages 
 1. Codecademy - https://www.codecademy.com/catalog
