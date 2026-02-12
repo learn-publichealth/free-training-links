@@ -6,7 +6,7 @@ Training links that are available to the public and require no licensing.
 2. https://pgcoe.github.io/
 
 # R Links:
-1.R can be used for free without installimng the software at https://posit.cloud/
+1. R can be used for free without installimng the software at https://posit.cloud/
 2. Posit documentation https://docs.posit.co/cloud/get_started/
 3. How to use R in Posit Cloud https://www.youtube.com/watch?v=tHHhVeQgYOU
 4. RStudio with Posit Cloud and ChatGPT - https://www.youtube.com/watch?v=YUGnQQ_hyNI
