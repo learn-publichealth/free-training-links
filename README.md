@@ -75,6 +75,9 @@ Training links that are available to the public and require no licensing.
 1. A-gallery-of-interesting-IPython-Notebooks - https://github.com/Carreau/ipython-wiki/blob/master/A-gallery-of-interesting-IPython-Notebooks.md
 2. Bio-image Analysis Notebooks - https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html
 
+# Git Training 
+1. Introduction to Shell and Git for Data Scientist https://www.youtube.com/live/kO9GgBJmBDg
+
 # Bioinformatics 
 1. An Introduction to Applied Bioinformatics - https://readiab.org/introduction.html
 2. Developing with QIIME 2 - https://develop.qiime2.org/en/stable/intro.html
