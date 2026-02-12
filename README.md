@@ -126,6 +126,7 @@ Handbook - https://alliblk.github.io/genepi-book/
 
 # HPC Computing 
 Introduction to High-Performance Computing - https://carpentries-incubator.github.io/hpc-intro/
+Good first issues in HPC https://hpc.social/projects/good-first-issues/?trk=public_post_comment-text
 
 # All programming languages 
 Codecademy - https://www.codecademy.com/catalog
