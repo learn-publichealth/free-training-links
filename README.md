@@ -6,9 +6,11 @@ Training links that are available to the public and require no licensing.
 2. https://pgcoe.github.io/
 
 # R Links:
-R can be used for free without installimng the software at https://posit.cloud/
-
-Take a look at these free resources:
+1.R can be used for free without installimng the software at https://posit.cloud/
+   https://docs.posit.co/cloud/get_started/
+2. How to use R in Posit Cloud https://www.youtube.com/watch?v=tHHhVeQgYOU
+3. RStudio with Posit Cloud and ChatGPT - https://www.youtube.com/watch?v=YUGnQQ_hyNI
+# Free resources to Learn R
 1.	R for Data Science, 2nd edition https://r4ds.hadley.nz
 2.	R Programming for Data Science https://bookdown.org/rdpeng/rprogdatascience/
 3.	Hands-On Programming with R https://rstudio-education.github.io/hopr/
@@ -44,9 +46,11 @@ Take a look at these free resources:
 33.  Codecademy- https://www.codecademy.com/catalog/language/r
 
 # Python links:
-Python can used freely from google collab https://colab.research.google.com/
+1. Python can used freely from Google collab https://colab.research.google.com/
+2. How to use Python in google Collab - https://www.youtube.com/watch?v=HcUZ5xbdvro
+3. Python in Google Collab - https://www.youtube.com/watch?v=9y1c8W4QTFc
 
-Some python resources :
+# Python resources:
 1. Learn Python: https://www.w3schools.com/python/default.asp
 2. Python - Introduction - W3Schools.com- https://www.youtube.com/watch?v=xkZMUX_oQX4&list=PLP9IO4UYNF0UgPfkTBECSKIJGdc_9FYZ9
 3. Get started learning Python -  https://www.learnpython.org/
