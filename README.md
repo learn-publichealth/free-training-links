@@ -7,9 +7,9 @@ Training links that are available to the public and require no licensing.
 
 # R Links:
 1.R can be used for free without installimng the software at https://posit.cloud/
-   https://docs.posit.co/cloud/get_started/
-2. How to use R in Posit Cloud https://www.youtube.com/watch?v=tHHhVeQgYOU
-3. RStudio with Posit Cloud and ChatGPT - https://www.youtube.com/watch?v=YUGnQQ_hyNI
+2. Posit documentation https://docs.posit.co/cloud/get_started/
+3. How to use R in Posit Cloud https://www.youtube.com/watch?v=tHHhVeQgYOU
+4. RStudio with Posit Cloud and ChatGPT - https://www.youtube.com/watch?v=YUGnQQ_hyNI
 # Free resources to Learn R
 1.	R for Data Science, 2nd edition https://r4ds.hadley.nz
 2.	R Programming for Data Science https://bookdown.org/rdpeng/rprogdatascience/
