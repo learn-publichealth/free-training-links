@@ -140,23 +140,6 @@ Codecademy - https://www.codecademy.com/catalog
 6. Foundations of Modern Finance - https://lnkd.in/g8J7BNeJ
 7. Data Analysis: Statistical Modeling - https://lnkd.in/gXa_dJ3r
 
-# Free biothreat and biosurveillance training resources:
-### CDC Lab Preparedness Portal
-1. Prepared Laboratories Resources – includes links to the above CDC biothreat courses and biosafety modules.
-https://www.cdc.gov/laboratory-systems/php/initiatives/prepared-laboratories-resources.html
-2. CDC Biothreat Training - https://www.cdc.gov/lab-training/php/courses/biothreat-preparedness-sentinel-laboratories.html
-Biothreat Preparedness Training for Sentinel Laboratories Series
-3. Biothreat Rule Out or Refer Series - https://www.cdc.gov/lab-training/php/courses/biothreat-rule-out-refer-series.html
-Case-based exercises to practice applying sentinel lab protocols for ruling out or referring biothreat agents.
-### APHL Training Toolbox
-Sentinel Laboratory Training Toolbox - https://www.aphl.org/training/Pages/Biothreat-Response-Sentinel-Laboratory-Training-Toolbox.aspx
-Downloadable templates and materials on biothreat training and outreach.
-### USAMRIID Resources
-USAMRIID Biodefense Tool quick reference on biothreat agents. - https://usamriid.health.mil/index.cfm/training/resources
-### DHS & FEMA
-BioWatch Overview - Introduction to the BioWatch air-monitoring program for detection of airborne biothreats.
-https://cdp.dhs.gov/training/course/AWR-938-W
-
 
 # Disclaimer
 The resources and links provided on this page are for informational purposes only. I do not own, maintain, or have any control over the content of external websites. All trademarks, logos, and content belong to their respective owners.
